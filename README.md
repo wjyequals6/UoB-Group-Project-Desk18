@@ -1,75 +1,124 @@
-# UoB-Group-Project desk 18
-## Team Profile
-### Project name  
-### Members
-| Name             | Email                   |
-|:----------------:|:-----------------------:|
-| Jiayi Wu         | <kz20196@bristol.ac.uk> |
-| Ronel Mehmedov   | <yu20919@bristol.ac.uk> |
-| Sheng-Han Tim Chu| <re20470@bristol.ac.uk> |
-| Yi-Tsen Ho       | <kv20880@bristol.ac.uk> |
-| Yin-Te Lan       | <oq20204@bristol.ac.uk> |
-### [Teams Channel](https://teams.microsoft.com/l/channel/19%3ab811a4a7be67448bb4bfafd8c70266a2%40thread.tacv2/Desk%252018?groupId=a9a647c8-66d1-4f10-bd04-9a5ed3f67e7b&tenantId=b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b)
+<p align="center"><img src="resource_report/mainImg.png"width=60%>
 
-# Project Report
-## Introduction [10 marks]
-### Abstract
-Motivation for the project, framing of the problem and a high-level overview of the system.  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ultrices dolor ac sodales pellentesque. In tincidunt diam viverra, pellentesque purus et, laoreet ligula. Curabitur sollicitudin metus a eleifend condimentum. Donec id dolor nibh. Praesent suscipit quam sed feugiat aliquam. Nunc tristique diam sit amet turpis sodales, quis convallis ante aliquet. In odio tortor, ultrices eget massa at, sodales suscipit mauris. Aenean a tincidunt erat. Mauris ornare quis augue a sagittis.
-### Project Objectives
-The high level goals of the project and the contribution towards solving the problem. A checklist against which the team can evaluate their success.  Nunc purus mauris, tristique id venenatis vel, hendrerit eu nibh. Duis cursus iaculis lorem id molestie. Donec tempor lacinia lacus ut fermentum. Nam in purus a leo viverra laoreet. Suspendisse sed felis tincidunt, faucibus lorem eu, rutrum arcu. Nulla risus eros, ultricies at vehicula quis, tincidunt sed erat. Quisque mattis in diam euismod aliquet. Ut vel nulla a odio congue laoreet. Donec sed tellus et eros dignissim ornare. Phasellus in cursus erat, imperdiet suscipit orci. Nunc sapien magna, ornare in eleifend non, scelerisque eget ex. Ut diam tortor, auctor ac lectus ac, convallis porta lacus.
-### Video
-Short (1-2min) demo video to explain your system (think Kickstarter)
-![404lol](video/test.gif)
-## Background and Motivation [10 marks]
-### Background literature
-Academic research review. Aenean venenatis fermentum lacinia. Aenean pretium justo vitae felis congue posuere. Cras accumsan lectus sit amet massa eleifend, in iaculis urna elementum. Etiam molestie hendrerit purus, eget tempus ante gravida vel. Duis ultrices, lacus vel dignissim porttitor, ipsum quam dapibus sapien, et bibendum lacus diam nec sapien. Ut sollicitudin sem non imperdiet rhoncus. Pellentesque semper vel est vel malesuada. Sed sit amet sapien sit amet sapien pulvinar tempus.
-### State of the art survey
-Current industry review. Aenean rutrum iaculis felis a vulputate. Pellentesque vehicula eleifend velit, mollis mattis sem. Donec velit sem, pretium convallis sollicitudin ultricies, suscipit vitae ipsum. Phasellus vel justo non dui blandit accumsan. Integer nec ex vitae ante gravida lacinia. Pellentesque rhoncus vel dolor a convallis. Phasellus suscipit sit amet eros at congue. Aliquam condimentum ligula vel risus congue varius. Mauris scelerisque sem a nulla tempus, a venenatis velit efficitur. Donec at sem in lectus euismod tristique et a magna. Curabitur nec tempus ipsum. Etiam sem dolor, cursus tincidunt efficitur eu, blandit eu ipsum. Nullam non leo aliquet velit sagittis dapibus eget vel mi. Nulla placerat ante non imperdiet volutpat. Phasellus ac turpis id tortor sodales pulvinar. In aliquam varius mattis.
-### Clear definition of the problem
-How does your project relate to the above? We will be marking the ability of your team to identify a worthwhile and important problem and clearly articulate the scope and challenge of the problem. Aliquam erat volutpat. Nam ac diam et felis blandit laoreet a ac odio. Curabitur ac orci eu est euismod malesuada. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nunc auctor erat ut felis scelerisque, ac tincidunt nunc mattis. Aenean mi orci, molestie eu tortor non, viverra vulputate leo. Vestibulum auctor diam eget dui sodales lacinia. Suspendisse at porta ligula, lacinia hendrerit arcu. Aliquam augue enim, rhoncus sed lectus in, scelerisque dapibus ligula. Pellentesque at placerat sem, ut rhoncus justo. Morbi nec dui tristique, placerat tortor nec, commodo massa. Donec non commodo leo, id sagittis nisi. Donec bibendum risus molestie libero sollicitudin, dignissim mollis nisl placerat.
-## System Implmentation [20 marks]
-### Stack architecture and system design
-e.g. class diagrams, dequence diagrams
-### Back End - MongoDB
-database implementation, the data model that you developed your back end from (e.g. entity relationsip diagrams).
-### Middle Tier - Express Node, the RESTful API
-### Front End - Angular
-Details of implementation
-### Additional elements and components
-e.g. authentification. Tell us about any other aspects not covered above!
-### Deployment datails (including Docker)
-include how you have been achieving continuous integration and deployment
-## UX Design [15 marks]
-### Design Process and Early prototyping and ideation
-including mood boards and paper prototyping
-### Identification of interacting users and broader stakeholders
-### UX approach
-design heuristic/approach, degisn methods (design fiction/heuristics)
-### Understanding of user group
-questionnaires / user stories / interviews
-### Wireframes and interaction flow diagrams for final key subsystems
-## Sprints & Project Management [15 marks]
-### Group working methods used
-for instance did your team choose a particular style of agile? what communication channel did you use?
-### Discussion of team roles (specialisation if ok!)
-A summary of individual contributions (note: this is for reference, your team will receive the same grade!)
-### Documentation of your sprints
-including both high level overview, timeline, and selected highlights that were critical points in the project (remember to show the users stories implemented in each sprint). We expect a summary of metting logs (including for instance apologies for absence etc)
-### Team use of Git
-how your team used continuous integration / continuous deployment. Streamlining of workflow throughout.
-## Evaluation [15 marks]
-### Details of how you evaluated your designs (techniques used & awareness of their limitations). 
-Description of techniques suitable for your particular design. A timeline of evaluation of your design.
-### Unit testing / Functional testing.
-### User acceptance testing. 
-Evaluation of your design with users – methods undertaken, findings, implications.
 
-## Conclusion [10 marks]
-Reflect on the working practices of your group, how well they did or did not work, e.g, management of issues, communication, Agile (etc).
-Reflective discussion of the success of the project. How well did your project fulfil the brief? Were all of your own objectives met
-This is a chance to reflect on how coronavirus has affected your project (remote working practices etc)
-Discussion of Social and Ethical implications of your work.
-Discussion of future work (in terms of design, development and evaluation)
+___
 
-## Presentation [5 marks]
-There is a 5% mark for presentation, including formatting. We are looking for consistency, readability, conciseness, good use of figures and with the ultimate aim of this being a readable and useful public repo! 
+ ## What is ***CovidSurvival***
+
+Do you feel boring when isolating alone? Do you want to hear stories from abroad?   
+We have songs and wine, and especially, friends from all over the world to share their stories of life under quarantine.  
+
+Do you wondering how to survival in this post COVID world?  
+Check if you want to travel. There's travelling policy for each country  
+Check if you fear of cases. There's real time statistics of each country  
+Check if you feel alone. There's people around the world sharing and supporting each others  
+
+We are waiting for you!
+
+**Click to see our introduction [video](https://www.youtube.com/watch?v=jRbCMJ7fJa8)**
+
+[![video](https://i.imgur.com/OXibJVa.png)](https://www.youtube.com/watch?v=jRbCMJ7fJa8 "video")
+
+
+## Introduction
+
+As the Covid-19 epidemic spreads around the world, the virus continues to evolve, which severely affects people's lives around the world. According to UK government figures, there have been over 4.4 million confirmed cases of coronavirus in the UK alone and more than 127,000 people have died. The epidemic is a world-wide problem that has forced people from numerous disciplines to find ways of containing the spread of the virus. 
+
+The issue that our project seeks to address is the lack of diverse ways of presenting COVID information to users. Governments have opted to provide information about the virus to the population mainly through television broadcasts and news media. This is understandable given that these traditional media appear more appropriate for official statements as they are well-established and the information from these sources is generally perceived as more credible. However, the nature of these media does not allow them to provide a large volume of statistical information to the target audience and the content often includes directives for people about the best ways of protecting themselves. This has the disadvantage that such media are rarely able to help people make their independent observations about the spread of the virus.
+
+That is why we decided to create  CovidSurvival - a website platform that provides statistical information about the COVID situation in each country as well as providing links to news articles and official travel policies issued by the respective governments. On our webpage users can see real-time coronavirus statistics from around the world. This has the utility of providing a source of large volumes of data. We are hoping that people who wouldn't otherwise be convinced by news articles about scientific matters would convince themselves of the accuracy of scientific claims by observing trends in the data. For example, if cases drop sharply in countries that adopted wide vaccination programmes that would attest for the efficacy of vaccines and users could be more inclined to accept this stance if they are able to infer this themselves from the data itself.   
+
+But CovidSurvival is actually more than just a website for information! It is also a social platform that allows users to engage with each other and to share their opinions. Users are able to make forum posts and the website encourages socialising between users by giving points for likes and maintaining a leaderboard of top users. The points that count towards a user’s ranking are , however, also generated by exploring statistical information from the website and this educates users in a fun and casual way whilst also providing them a platform to socialise at a time when so many people are stuck at their homes. Also, by interacting between each other, users can share information with people who wouldn't otherwise have access to the information that others have. They can also get different points of view about the virus and the best ways of preventing infection.
+
+
+## Video
+
+**If you want to see more ->[full introduction video](https://www.youtube.com/watch?v=tdEkIdn4zNo)**
+[![video](https://i.imgur.com/27p4nT3.png)](https://www.youtube.com/watch?v=tdEkIdn4zNo "full introduction video")
+
+
+## Product design
+
+**View our [product design document](resource_report/ProductDesign.md) to see**
+
+- User Requirement
+  - Apply the requirements finding techniques
+  - User Story
+  - General User Persona
+- Design Process and Early prototyping and Ideation
+- Wireframes and interaction flow diagrams
+- UX approach
+- Appendix: Interview
+
+
+## System implementation
+
+**View our [system implementation document](resource_report/SystemImplementation.md) to see :**
+
+- Stack architecture and system design
+- Back End
+- Middle Tier
+- Frontend implementation 
+  - Frontend Overview 
+  - Framework – React + Redux
+    - React
+    - Redux
+    - Data Visualization - react-svg-map
+    - UI Design – Ant-Design
+- Additional elements and components
+  - Authentication
+  - Sound
+  - Animation
+- Deployment details
+  - ui
+    - build environment
+    - production environment
+  - api
+  - mongo
+  - docker-compose.yml
+
+
+## Project Management
+
+**View our [project management document](resource_report/ProjectManagement.md) to see :**
+
+- Introduction
+- Individual Contribution
+- Risk Management
+- Planning
+  - Time Estimating
+  - Work Breakdown
+  - Gantt Chart
+- Team use of Git
+  - Planning
+  - Developing
+  - Evaluation
+- Appendix : Sprint
+- Manage team's tasks with Asana
+
+
+## Evaluation
+
+**View our [evaluation document](resource_report/Evaluation.md) to see :**
+
+- Evaluation Method
+- Testing
+  - Frontend Test
+    - Library Used
+    - Testing Design
+  - Backend Test
+- User acceptance testing
+  - Methods
+    - Think aloud methods
+    - Interview
+  - Timeline
+
+## Conclusion
+
+Considering that this was the first time we had applied software engineering development methods to a project, we were very careful in our communication. Firstly, we held meetings two to three times a week to ensure that the project is developed steadily and consistently. Secondly, we used an online management platform, [Asana](resource_report/ProjectManagement.md/#Manage-team's-tasks-with-Asana), to distribute tasks between team members and to manage deadlines. We used this software to follow up on the progress of each person's tasks and adapt the expected timeframes for the completion of different features. These activities allowed us to keep in close contact and communicate issues in a timely manner, thus enabling agile development.
+
+By comparing the list of features (backlog) drawn up at the beginning of the project based on user requirements, we have completed our project according to plan. In the backlog, we have prioritised the features for the different iterations in order of priority. This helped us to iterate through the versions in order of importance, and ultimately to create a more complete prototype. According to our plan, all the basic functionality should have been implemented in iteration 2. However, at the time of submission, we had completed the third iteration, and the prototype was much more feature-rich and interesting than the previous version.
+
+Coronavirus has forced us to choose to work remotely, but we have planned ahead for this. In order to ensure that we can keep in touch with each other during remote collaboration, we ensure that there are two or more ways of contacting each other. For example, excluding teams, members can communicate with each other via wechat, whatsapp, etc. In extreme cases we can also meet offline to deal with unforeseen situations, that is, to meet each other face-to-face by knowing each other's address. However, we still regret that we did not have the opportunity to have a real face-to-face stand up meeting.
+
+In terms of design, we need more usability testing to tweak the user interface and interaction story, and we can refer to more UI design methods to increase user stickiness. In terms of development, in addition to the features mentioned in the backlog for subsequent iterations, algorithms can be applied to our product. For example, the home page can be used to recommend content that may be of more interest to users based on the algorithm. In terms of evaluation, we can further deepen our evaluation tools from two perspectives. For example, code testing can be done using other open-source tools and inviting people not involved in development to black-box test the prototype. For user testing, we can use data collection techniques such as eye-movement technology to obtain statistical data for quantitative analysis. Finally, with respect to the ethical implications of the project we dont consider the website to have negative impact. A potential issue in this regard is the fact that the website only provides links to information or statistical information obtained by third-party API’s and ,therefore, the accuracy of the information is not verified. However, nowhere in the website we make claims about the accuracy of the information and users are mainly redirected to third party sources, therefore, no negative ethical implications from this.
